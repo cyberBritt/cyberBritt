@@ -1,18 +1,15 @@
-<!-- Dark-themed GitHub Profile README -->
+<h1 align="center">Brittany Brinson - Certified in Cybersecurity</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%F0%9F%94%90;Veteran+in+Tech+%F0%9F%91%A9%F0%9F%8F%BE&E2%80%8D%F0%9F%94%A7;Creative+Technologist+%F0%9F%94%A5"alt="Typing SVG" />
-</p>
-
-<h1 align="center">👩🏾‍💻 Hey, I’m Britt – Cybersecurity in Progress 🔐</h1>
-
-<p align="center">
-  A driven cybersecurity student with military background in signal support and tactical communications, now specializing in threat analysis, secure systems, and vulnerability testing.
+>  A driven cybersecurity student with military background in signal support and tactical communications, now specializing in threat analysis, secure systems, and vulnerability testing.
   <br><br>
   Actively building technical depth through home labs and security projects involving BurpSuite, OWASP Juice Shop, Splunk and Python-based tools.
   Experienced in networking fundamentals, endpoint hardening, and SOC workflows.
-  <br><br>
-  Proven leader with a mindset of keeping the mission first and a sharp eye for detail. Currently seeking entry level opportunities in security opertions, GRC, or network defense to bring my discipline, creativity, and technihcal drive to the field.
+>  <br><br>
+>  Proven leader with a mindset of keeping the mission first and a sharp eye for detail. Currently seeking entry level opportunities in security opertions, GRC, or network defense to bring my discipline, creativity, and technihcal drive to the field.
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=🔐+Certified+in+Cybersecurity;🛡️+Army+Veteran+in+Tech;👩🏾‍💻+Continuous+Learner+and+Student;💡+Creative+Thinker+and+Innovator" alt="Typing SVG" /> 
 </p>
 
 ---
