@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=🔐+Certified+in+Cybersecurity;🛡️+Army+Veteran+and+Student;👩🏾‍💻+Cybersecurity+and+Intelligence;💡+Creative+Thinker+and+Innovator" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=🔐+ISC2+Certified+in+Cybersecurity;🛡️+Army+Veteran+and+Student;👩🏾‍💻+Cybersecurity+and+Intelligence;💡+Creative+Thinker+and+Innovator" alt="Typing SVG" /> 
 </p>
 
 ---
