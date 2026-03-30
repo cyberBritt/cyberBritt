@@ -2,14 +2,14 @@
 
 >  A driven cybersecurity student with military background in signal support and tactical communications, now specializing in threat analysis, secure systems, and vulnerability testing.
   <br><br>
-  Actively building technical depth through home labs and security projects involving BurpSuite, OWASP Juice Shop, Splunk and Python-based tools.
+  Actively building technical expertise through home labs and security projects involving BurpSuite, OWASP Juice Shop, Splunk and Python-based tools.
   Experienced in networking fundamentals, endpoint hardening, and SOC workflows.
 >  <br><br>
->  Proven leader with a mindset of keeping the mission first and a sharp eye for detail. Currently seeking entry level opportunities in security opertions, GRC, or network defense to bring my discipline, creativity, and technihcal drive to the field.
+>  Proven leader with a mindset of keeping the mission first and a sharp eye for detail. Currently seeking internships and entry level opportunities in security opertions and network defense to bring my creativity and technical drive to the field.
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=🔐+Certified+in+Cybersecurity;🛡️+Army+Veteran+Signal+Support;👩🏾‍💻+Continuous+Learner+and+Student;💡+Creative+Thinker+and+Innovator" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=🔐+Certified+in+Cybersecurity;🛡️+Army+Veteran;👩🏾‍💻+Cybersecurity+and+Intelligence+Student;💡+Creative+Thinker+and+Innovator" alt="Typing SVG" /> 
 </p>
 
 ---
@@ -45,16 +45,15 @@
 
 ### 🎓 Education & Certifications
 
-- **BS in Network Systems Technology & Cybersecurity** | Broward College (2027)* <br>
+- **BS in Cyber Intelligence & Security** | ERAU-Prescott - Fall 2026* <br>
+- **AS in Network Systems Technology/Cybersecurity** | Broward College 2024-2026* <br>
   • President’s List Honoree (4.0 GPA)  
-  • Honors College Member  
+  • Phi Theta Kappa Honor Society (PTK)
   • National Society of Leadership & Success (NSLS)
 
 - **Certifications**  
   • ISC2 Certified in Cybersecurity (CC) - Aug 2025
-  • ISC2 Systems Security Certified Practitioner (SSCP) - Expected Nov 2025
-  • CompTIA A+, Network+, Project+ (Coursework Completed)  
-  • TryHackMe: Home Lab Training in Web Exploitation, Networking, and SOC1
+  • CompTIA Security+ - In Progress 
 
 ---
 
@@ -65,9 +64,6 @@
 
 - 🛠 **IT Troubleshooting Guidebook**  
   Step-by-step Windows troubleshooting manual created for tech support beginners (CompTIA A+ honors project).
-
-- 📘 **Pivot & Prosper Playbook**  
-  Digital product guiding professionals transitioning into cybersecurity with strategy and clarity.
 
 ---
 
@@ -80,4 +76,4 @@
 ---
 
 <p align="center"><b>📬 Open to internships, apprenticeships, and early-career roles</b></p>
-<p align="center">📍 Based in South Florida | 💼 Open to remote and hybrid opportunities</p>
+<p align="center">💼 Open to remote and hybrid opportunities</p>
