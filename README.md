@@ -45,14 +45,14 @@
 
 ### 🎓 Education & Certifications
 
-- **BS in Cyber Intelligence & Security** | ERAU-Prescott - Fall 2026* <br>
-- **AS in Network Systems Technology/Cybersecurity** | Broward College 2024-2026* <br>
+- **BS in Cyber Intelligence & Security** | ERAU-Prescott transferring Fall 2026 <br>
+- **AS in Network Systems Technology/Cybersecurity** | Broward College 2024-2026 <br>
   • President’s List Honoree (4.0 GPA)  
   • Phi Theta Kappa Honor Society (PTK)
   • National Society of Leadership & Success (NSLS)
 
 - **Certifications**  
-  • ISC2 Certified in Cybersecurity (CC) - Aug 2025
+  • ISC2 Certified in Cybersecurity (CC) - Aug 2025 <br>
   • CompTIA Security+ - In Progress 
 
 ---
@@ -75,5 +75,5 @@
 
 ---
 
-<p align="center"><b>📬 Open to internships, apprenticeships, and early-career roles</b></p>
-<p align="center">💼 Open to remote and hybrid opportunities</p>
+<p align="center"><b>📬 Open to internships, apprenticeships, and early-career roles</b><br>
+  📍South Florida or North Arizona</p>
